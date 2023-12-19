@@ -2,7 +2,7 @@ import pyautogui as pag
 import random
 import time
 
-clicks = 16
+clicks = 12
 timer = 10
 
 print("3...")
